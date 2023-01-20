@@ -29,10 +29,11 @@ A farly simple project that is a phrases guessing game - aka Hangman. Styling is
 
 - I have added a hint button that will show a hint to the phrase when pushed, but currently it does not work.
 
-![hint](./demo_pictures/Screenshot%202023-01-20%20at%203.04.39%20PM.png, 'Hint')
+![hint](./demo_pictures/Screenshot%202023-01-20%20at%203.18.46%20PM.png'Hint')
 
 - I would like to change the hangman image to a house suspended by balloon to remove a bit of the 'death' feel to the game. Something like this:
-  ![house](./demo_pictures/Screenshot%202023-01-20%20at%203.05.37%20PM.png 'balloon house')
+
+![house](./demo_pictures/Screenshot%202023-01-20%20at%203.05.37%20PM.png 'balloon house')
 
 ---
 
