@@ -35,7 +35,7 @@ A farly simple project that is a phrases guessing game - aka Hangman. Styling is
 
 ![house](./demo_pictures/Screenshot%202023-01-20%20at%203.05.37%20PM.png 'balloon house')
 
-- Potential for backend addition to great user login to track wins vs losses.
+- Potential for backend addition to create user login to track wins vs losses.
 
 ---
 
