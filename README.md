@@ -4,8 +4,6 @@
 
 ## Table of Contents
 
----
-
 - [General Info](#general-information)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
@@ -19,13 +17,9 @@
 
 ## General Information
 
----
-
 A farly simple TypeScript project that is a phrases guessing game - aka Hangman. Styling is pretty basic, but I have plans to update and improve this. I wanted to try a bit of TypeScript in with a starter project to get my feet wet. Styling the Keyboard took some creativity and learning how to use the useCallback hook was an added bonus.
 
 ## Technologies Used
-
----
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -34,13 +28,11 @@ A farly simple TypeScript project that is a phrases guessing game - aka Hangman.
 
 ## Features
 
----
-
 Start Page:
 
 - Starts out with an empty gallows (again, I'm working on changing the visuals)
 
-![start](ui/demo_pictures/Screenshot%202023-01-20%20at%203.00.18%20PM.png 'Game Start')
+![start](ui/demo_pictures/1.png) 'Game Start')
 
 - You can use the keyboard or your mounse to select leters to try and guess the phrase.
 - Letters are highlighted as you hover (blue) and when selected change in colour to indicate a correct letter (green) or incorrect (faded out) letter for the phrase.
@@ -49,17 +41,15 @@ Incorrect Letter Choice:
 
 - When an incorrect letter is selected an item is added to the picture.
 
-![guessing](ui/demo_pictures/Screenshot%202023-01-20%20at%203.00.54%20PM.png 'Active Keyboard')
+![guessing](ui/demo_pictures/2.png 'Active Keyboard')
 
 Game Lost:
 
 - After 6 incorrect guesses the phrase is revealed with missing letters shown in red and a 'Try Again' banner is shown.
 
-![lost](ui/demo_pictures/Screenshot%202023-01-20%20at%203.02.58%20PM.png 'lost game')
+![lost](ui/demo_pictures/3.png 'lost game')
 
 ## Setup
-
----
 
 ### Run Locally
 
@@ -80,23 +70,19 @@ Runs the server. Open [http://localhost:5173](http://localhost:5173) to view it 
 
 ## Project Status
 
----
-
 Complete
 
 ## Room for Improvement
-
----
 
 Improvement Thoughts:
 
 - I have added a hint button that will show a hint to the phrase when pushed, but currently it does not work.
 
-![hint](./demo_pictures/Screenshot%202023-01-20%20at%203.18.46%20PM.png 'Hint')
+![hint](ui/demo_pictures/5.png 'Hint')
 
 - I would like to change the hangman image to a house suspended by balloon to remove a bit of the 'death' feel to the game. Something like this:
 
-![house](./demo_pictures/Screenshot%202023-01-20%20at%203.05.37%20PM.png 'balloon house')
+![house](ui/demo_pictures/4.png 'balloon house')
 
 - Potential for backend addition to create user login to track wins vs losses.
 
@@ -109,13 +95,9 @@ To do:
 
 ## Acknowledgements
 
----
-
 Many thanks to [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified), this project was based on [this tutorial](https://www.youtube.com/watch?v=-ONUyenGnWw).
 
 ## Contact
-
----
 
 Created by [@azulverdosa](ellemocambo@gmail.com) - feel free to contact me!
 
@@ -123,22 +105,14 @@ Created by [@azulverdosa](ellemocambo@gmail.com) - feel free to contact me!
 
 ## 🤝 Support
 
----
-
 Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
 ## License
 
----
-
 MIT License Copyright (c) [2023] [AvaElise]
 
----
-
 ### What's coming next
-
----
 
 MIT License Copyright (c) [2023] [AvaElise]
