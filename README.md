@@ -17,7 +17,7 @@
 
 ## General Information
 
-A farly simple TypeScript project that is a phrases guessing game - aka Hangman. Styling is pretty basic, but I have plans to update and improve this. I wanted to try a bit of TypeScript in with a starter project to get my feet wet. Styling the Keyboard took some creativity and learning how to use the useCallback hook was an added bonus.
+A fairly simple TypeScript project that is a phrases guessing game - aka Hangman. Styling is pretty basic, but I have plans to update and improve this. I wanted to try a bit of TypeScript in with a starter project to get my feet wet. Styling the Keyboard took some creativity and learning how to use the useCallback hook was an added bonus.
 
 ## Technologies Used
 
